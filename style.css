@@ -1,0 +1,35 @@
+.heading-container{
+    text-align: center;
+    margin-top: 20px;
+    color: rgb(255, 9, 148);
+    
+}
+
+body{
+    color:rgb(10,8,20);
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    background-color: rgb(100, 236, 245);
+
+}
+
+#fetchdata{
+    float: center;
+}
+
+.main-container{
+    justify-content: left;
+    gap: 10px;
+    padding: 20px;
+    margin: 0;
+}
+
+#result1{
+    border : 5px solid black;
+    
+}
+
+#result2{
+    border : 5px solid black;
+    
+}
